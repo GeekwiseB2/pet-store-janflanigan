@@ -1,0 +1,29 @@
+/*HEADER*/
+.logo {
+  width: 90px;
+}
+.logo-text {
+  font-family: 'Lobster', cursive;
+  color: #f48057;
+}
+
+/*JUMBOTRON*/
+.jumbotron {
+  background-image: url('../img/hero.jpg');
+  height: 450px;
+  background-position: center;
+  background-size: 100%;
+
+}
+.action-call {
+  color: #fff !important;
+  font-size: 30px !important;
+  font-weight: 200;
+  text-transform: uppercase;
+  margin-top: 10px;
+}
+
+.img-thumbnail {
+  width: 100%;
+  height: auto;
+}
